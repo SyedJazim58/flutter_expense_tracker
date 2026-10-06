@@ -1,17 +1,21 @@
-# expense_tracker
+# 💰 Flutter Expense Tracker
 
-A new Flutter project.
+A Flutter/Dart learning project for tracking personal expenses and practicing mobile UI development.
 
-## Getting Started
+This project is part of my current **Flutter & Dart learning journey at AshrieTech Academy – NASTP**.
 
-This project is a starting point for a Flutter application.
+## 🎯 Project Goals
+- Practice Flutter widgets and layouts
+- Work with Dart models and data
+- Build reusable UI components
+- Display expense information in a mobile-friendly interface
+- Understand application state and user interaction
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+Flutter • Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Getting Started
+Run `flutter pub get`, then `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📚 Learning Context
+This repository represents my progression into **Flutter mobile development**.
